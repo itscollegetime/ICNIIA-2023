@@ -5,14 +5,14 @@ I attended the International Conference on Next-generation Intelligent Informati
 
 Here are the [Conference Schedule](https://drive.google.com/file/d/1aUVv7goLzrCyancm6GE-RPX--ToFqC4s/view) and the [Conference Proceedings](https://sites.google.com/mail.shu.edu.tw/shu-im-2023/%E8%AB%96%E6%96%87%E9%9B%86).
 
-## [Full paper](supp/MisSIM.pdf)
+## [Full Paper](supp/MisSIM.pdf)
 <a href="supp/MisSIM.pdf" class="image fit"><img src="supp/YLiu.jpg" alt=""></a>
 
 # Presentation
 
 [![Watch the video](supp/ICNIIA_2023_present.jpg)](https://youtu.be/dBbuJg9fxYI)
 
-## Video Demonstrations
+## Video Demonstrations (click to see video)
 
 |[![Watch the video](supp/Burst01.jpg)](https://youtu.be/3wWiltxD8Tc)| [![Watch the video](supp/BurstCircle01.jpg)](https://youtu.be/pYxVjIowwP0)|
 |-|-|
