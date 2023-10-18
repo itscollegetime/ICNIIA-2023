@@ -5,7 +5,7 @@ I attended the International Conference on Next-generation Intelligent Informati
 
 Here are the [Conference Schedule](https://drive.google.com/file/d/1aUVv7goLzrCyancm6GE-RPX--ToFqC4s/view) and the [Conference Proceedings](https://sites.google.com/mail.shu.edu.tw/shu-im-2023/%E8%AB%96%E6%96%87%E9%9B%86).
 
-## Full paper (Click to download full paper)
+## [Full paper](supp/MisSIM.pdf)
 <a href="supp/MisSIM.pdf" class="image fit"><img src="supp/YLiu.jpg" alt=""></a>
 
 # Presentation
